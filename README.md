@@ -1,4 +1,11 @@
-# Homework #3 — Front-end Senior Projects Page
+# In class calculator
+
+1. Examine https://www.w3schools.com/js/tryit.asp?filename=tryjs_validation_number
+
+2. Begin implementing the JS code in calculator.js. Don't worry about making the code pretty for now. Start with addition and see if you can get the result of addition to display below the Result: text
+
+3. Continue with the rest of the calculator.
+
 
 ## Overview
 This project implements a hand-coded Senior Projects page using Flask. It includes:
